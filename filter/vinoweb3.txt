@@ -16,3 +16,4 @@
 ! Report new issue on github: https://twitter.com/0xvino
 ! ---------- Generic Blocking Rules ----------
 ||opensea.io^
+||blur.io^
