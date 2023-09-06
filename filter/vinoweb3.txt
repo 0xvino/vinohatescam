@@ -1,0 +1,18 @@
+[Adblock Plus 2.0]
+! Version: 20230905144726
+! Title: Vino Web3 List
+! Last modified: 05 Sep 2023 14:47:26 UTC+7
+! Expires: 1 days (update frequency)
+!
+! Vino Web3 List filter
+! Copyright: Vino Web3
+! Homepage: https://twitter.com/0xvino
+! License: GPLv3 (https://github.com/abpvn/abpvn/blob/master/LICENSE)
+! Please report any unblocked ads or problems by email or in our fanpage
+! Mọi thắc mắc xin gửi về email hoặc fanpage
+! Email: https://twitter.com/0xvino
+! Facebook Fanpage: https://twitter.com/0xvino
+! Forum: https://twitter.com/0xvino
+! Report new issue on github: https://twitter.com/0xvino
+! ---------- Generic Blocking Rules ----------
+||opensea.io^
